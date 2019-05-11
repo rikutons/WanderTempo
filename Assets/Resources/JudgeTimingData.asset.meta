@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 75a83763b72419745a6797adbba69408
+labels:
+- Data
+- JudgeTimingData
+- ScriptableObject
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

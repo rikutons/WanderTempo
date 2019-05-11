@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5eb8082efced2384bb16237979a1c49b, type: 3}
+  m_Name: RankPercentsModel
+  m_EditorClassIdentifier: 
+  RankPercents:
+  - rankName: AP
+    percent: 100
+    color: {r: 0.8773585, g: 0.045523323, b: 0.64975524, a: 1}
+  - rankName: S
+    percent: 97
+    color: {r: 0.9150943, g: 0.8860928, b: 0.02158241, a: 1}
+  - rankName: A
+    percent: 90
+    color: {r: 1, g: 0, b: 0, a: 1}
+  - rankName: B
+    percent: 80
+    color: {r: 0.0040494935, g: 0.5875701, b: 0.8584906, a: 1}
+  - rankName: C
+    percent: 50
+    color: {r: 0.5089413, g: 1, b: 0.4198113, a: 1}
+  - rankName: D
+    percent: 0
+    color: {r: 0.7165049, g: 0.6189036, b: 0.7169812, a: 1}

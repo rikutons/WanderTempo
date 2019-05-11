@@ -1,0 +1,505 @@
+﻿{
+  "name": "シアワセエゴイスト",
+  "maxBlock": 12,
+  "BPM": 157,
+  "offset": 4000,
+  "notes": [
+    {
+      "LPB": 8,
+      "num": 80,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 40,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 84,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 84,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 88,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 4,
+      "num": 44,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 88,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 92,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 94,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 96,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 98,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 102,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 108,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 112,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 116,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 120,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 124,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 128,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 132,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 136,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 140,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 140,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 144,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 148,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 148,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 156,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 158,
+      "block": 2,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 160,
+      "block": 1,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 164,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 172,
+      "block": 0,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 172,
+      "block": 3,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 196,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 196,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 200,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 200,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 204,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 208,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 208,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 212,
+      "block": 5,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 212,
+      "block": 6,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 216,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 216,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 220,
+      "block": 5,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 222,
+      "block": 6,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 224,
+      "block": 5,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 226,
+      "block": 6,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 230,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 236,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 240,
+      "block": 6,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 244,
+      "block": 5,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 248,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 252,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 256,
+      "block": 5,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 260,
+      "block": 6,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 264,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 268,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 268,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 272,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 276,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 288,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 288,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 296,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 300,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 304,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 304,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 312,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 314,
+      "block": 6,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 316,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 318,
+      "block": 6,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 320,
+      "block": 4,
+      "type": 1,
+      "notes": []
+    },
+    {
+      "LPB": 8,
+      "num": 328,
+      "block": 7,
+      "type": 1,
+      "notes": []
+    }
+  ]
+}

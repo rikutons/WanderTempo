@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Project/Scenes/Opening.unity
+    guid: 57ba8a4890bc50c4a9af0d94570a499c
+  - enabled: 1
+    path: Assets/Project/Scenes/SelectMusic.unity
+    guid: ce48e3b74264d2049888b31135a05dba
+  - enabled: 1
+    path: Assets/Project/Scenes/MusicGame.unity
+    guid: 7525a0f88176f704396ad1b5403fe222
+  m_configObjects: {}

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 5786d31d6c849d24389f44ffb768ee2f
+labels:
+- Data
+- JudgeScoreData
+- ScriptableObject
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
